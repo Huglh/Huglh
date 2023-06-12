@@ -1,4 +1,4 @@
-### Olá, mundo do GitHub! Sou [Hugo Thiago]!!!
+### Olá, mundo do GitHub! Sou **Hugo Thiago!!!**
 
 Um entusiasta da programação e amante da tecnologia. Estou aqui para mergulhar em linhas de código e criar algo mágico. Com habilidades afiadas
 em linguagens como Python, JavaScript e Java, estou pronto para enfrentar qualquer desafio e aprender com cada linha que escrevo. Tenho uma
