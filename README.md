@@ -5,9 +5,9 @@ em linguagens como Python, JavaScript e Java, estou pronto para enfrentar qualqu
 paixão genuína por projetos inovadores e acredito no poder da colaboração para alcançar resultados extraordinários. Vamos juntos, codificar o
 futuro e deixar nossa marca no mundo da programação!" 
 
-https://devicon.dev/
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="hugo-c#/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="hugo-sql"/>
 <link rel="stylesheet" alt="hugo-py" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 <link rel="stylesheet" alt="hugo-php" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
